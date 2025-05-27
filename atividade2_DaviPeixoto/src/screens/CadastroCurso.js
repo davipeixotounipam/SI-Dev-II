@@ -1,4 +1,3 @@
-// screens/CadastroCurso.js
 import React, { useState } from 'react';
 import { View, TextInput, Button, Text, StyleSheet } from 'react-native';
 import { collection, addDoc } from 'firebase/firestore';
